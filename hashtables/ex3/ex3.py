@@ -1,10 +1,23 @@
-def intersection(arrays):
-    """
-    YOUR CODE HERE
-    """
-    # Your code here
+""" INTERSECTION OF MULTIPLE LISTS
 
-    return result
+1. Understand:
+    Goal: find intersection of multiple lists of integers
+
+    Test case
+    ---------
+    Input: list of lists
+            [1,2,3,4,5]
+            [12,7,2,9,1]
+            [99,2,7,1]
+        
+    Output: (1,2)
+
+2. Plan:
+    
+    NOTE: skipping this one. 
+
+"""
+
 
 
 if __name__ == "__main__":
